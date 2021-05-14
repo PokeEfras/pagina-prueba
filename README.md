@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<!DCOTYPE html>
+<html lang="es">
+<head>	
+    
+    <title>Midnight_Gosspel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body> 
+<header id="main-header">
 
-You can use the [editor on GitHub](https://github.com/PokeEfras/pagina-prueba/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+        <a id="logo-header">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<span class="site-name"> Midnight Gosspel </span>
+</a><!--/#logo-header-->
+<nav>
+	<ul>
+		<li><a href="creadores.html">Creadores</a></li>
+		<li><a href="trama.html">Trama</a></li>
+	</ul>
+	</nav><!-- / nav -->
 
-### Markdown
+</center>
+</header><!-- / #main-header-->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<section id="main-content">
+<article>
 
-```markdown
-Syntax highlighted code block
+<div class="content">
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PokeEfras/pagina-prueba/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p>
+The Midnight Gospel es una serie de televisión estadounidense 
+de animación para adultos creada por Pendleton Ward y el comediante Duncan Trussell. 
+Es la primera producción animada de Ward para Netflix.
+La serie sigue al spacecaster Clancy, que posee un simulador de multiversos. 
+Mediante este, él viaja a través de mundos a punto de sufrir sus propios apocalipsis,
+con el objetivo de entrevistar a sus habitantes para su spacecast, y así mejorar espiritualmente.
+</p>
+<img src="The_Midnight_Gospel1.jpg" width="800" height="250">
+<p>
+fue producida por la empresa Titmouse inc lanzada por Netflix el 20 de abril de 2020
+la empresa Titmouse inc es un estudio de animación estadounidense que desarrolla y produce programación de television animada,
+largometrajes, videos musicales, secuencias de titulos, comerciales y cortometrajes  
+Algunas de sus producciones incluyen Breadwinners para Nickelodeon, T.O.T.S. para Disney, Motorcity para 
+Disney XD, Big Mouthy The Midnight Gospel para Netflix, Metalocalypse, 
+Los hermanos Venture y Black Dynamite para Adult Swim,y Megas XLR y Mao Mao: Heroes of Pure Heart
+para Cartoon Network.
+</p>
